@@ -1,10 +1,11 @@
 #include <stdio.h>
+#include <string.h>
 /**
- *main - print a string
- *Return: puts string
- */
+ **main - Main function
+ **Return: return 0 everytime
+ **/
 int main(void)
 {
-printf("with proper grammar, but the outcome is a piece of art,\n");
-return (0);
+	printf("with proper grammar, but the outcome is a piece of art,\n");
+	return (0);
 }
