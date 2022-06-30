@@ -1,10 +1,8 @@
-#include <stdio.h>
-/**
- *main - print a string
- *Return: puts string
- */
+#include<stdio.h>
 int main(void)
 {
-puts("\"Programming is like building a multilingual puzzle");
-return (0);
+    //string initialisation
+    char S[] = "\"Programming is like building a multilingual puzzle"
+    puts(S); //writing the string to stdout
+    Return(0);
 }
