@@ -2,9 +2,8 @@
 
 /**
  *  * main - Prints 'and that piece of aret is useful
- *   *   " - Dora Korpar, 2015-10-19'
- *    *
- *     * Return: 1   
+ *  " - Dora Korpar, 2015-10-19'
+ * Return: 1   
  */
 int main(void)
 {
