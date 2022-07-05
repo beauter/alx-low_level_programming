@@ -14,4 +14,5 @@ int main(void)
 		q++;
 	}
 	_putchar('\n');
+	return(0);
 }
